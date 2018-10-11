@@ -1,0 +1,60 @@
+
+
+a.mainmenu{
+	color:black;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	text-decoration: none;
+	font-size:14px;
+	font-weight: 600;
+	margin-left:20px;
+	
+
+	
+}
+a.mainmenu:hover{
+	color:Silver ;
+}
+a.textmenu{
+	color:black;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	font-size:14px;
+	font-weight: 600;
+	margin-left:20px;
+
+
+}
+a.secmenu{
+	color:black;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	text-decoration: none;
+	font-size:14px;
+	margin-left:20px;
+}
+a.secmenu:hover{
+	color:Silver ;
+}
+hr.linemenu{
+	border: 1px solid WhiteSmoke ;
+	margin-left:20px;
+	width:150px;
+}
+.short{
+	margin-left:20px;
+	width:150px;
+}
+
+#leftcolumn{
+	float: left;
+	width:200px;
+}
+
+#prgrf{
+		font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+		font-size:16px;
+}
+#title{
+	font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size:26px;
+}
+
+

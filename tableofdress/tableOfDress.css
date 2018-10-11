@@ -1,0 +1,39 @@
+
+.css{ width:100%; text-align:center}
+.css span{ width:25%;}
+
+
+
+	
+.css >span{
+	 float: left;
+	 margin-left:10px;
+	 margin-right:10px;
+}
+.css>span:link{
+	text-decoration:none;
+	color:black;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+
+
+.css>a.item:link{
+	text-decoration:none;
+	
+}
+
+.css >a.item>img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50); 
+}
+
+
+
+
+
+
+
+
+
+

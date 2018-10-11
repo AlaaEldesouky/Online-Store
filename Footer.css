@@ -1,0 +1,41 @@
+
+ul.footer>ul{
+	list-style-type: none;	
+display:inline;
+float:left;	
+}
+li.mainfooter{
+	font-family: "Times New Roman", Times, serif;
+	color:black;	
+}
+ul>li{
+	color: Silver  ;
+		list-style-type: none;
+			text-align:center;
+			padding:0px;
+font-family: Calibri;	  
+}
+ul>li:hover{
+	color: Black ;
+}
+div{
+	position:relative;
+	margin-left:auto;
+		margin-right:auto;
+		text-align:center;
+		width:900px;
+}
+#footer {
+	font-size:12px;
+    clear: both;
+    position: relative;
+    z-index: 10;
+    height: 3em;
+    margin-top: -3em;
+	color:#F52887;
+}
+
+a.li{
+	text-decoration:none;
+	color:#E4287C;
+}

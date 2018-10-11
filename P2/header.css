@@ -1,0 +1,56 @@
+#colorheader{
+	background-image:url("image.gif") ;
+	background-size: cover;
+	box-sizing: border-box;
+width: 100%;
+height: 150px;
+padding: 3px;
+border: 0px solid black;
+background-size: 100% 100%;
+}
+
+
+
+div#fixedheader {
+	position:fixed;
+	top:0px;
+	left:0px;
+	right:0px;
+	width:100%;
+	background:WhiteSmoke;
+	padding-top:10px;
+		padding-bottom:10px;
+	text-align:right;
+}
+
+.sign{
+	color:black;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	text-decoration: none;
+	font-size:14px;
+}
+.sign:hover{
+	color:Silver ;
+}
+
+div#movingheader {
+	top:0px;
+	left:0px;
+	right:0px;
+	width:100%;
+	padding-top:15px;
+		padding-bottom:15px;
+	text-align:center;
+}
+
+.mhead{
+	color:black;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	text-decoration: bold;
+	font-size:20px;
+	text-decoration:none;
+	
+}
+.mhead:hover{
+	color:Silver ;
+}
